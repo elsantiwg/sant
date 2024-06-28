@@ -1,5 +1,7 @@
+
 # Node.js
 node_modules/
+pnpm-lock.yaml
 npm-debug.log*
 pnpm-debug.log*
 yarn-debug.log*
@@ -105,7 +107,6 @@ nodemon-debug.log
 # Other
 *.log
 *.env
-
-
-# Bin directory
-bin/
+# Node.js
+node_modules/
+pnpm-lock.yaml
