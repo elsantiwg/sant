@@ -95,3 +95,6 @@ ehthumbs.db
 # IntelliJ IDEA
 *.iml
 .idea/
+
+# Bin directory
+bin/
