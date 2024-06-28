@@ -98,3 +98,14 @@ ehthumbs.db
 
 # Bin directory
 bin/
+
+# Nodemon
+nodemon-debug.log
+
+# Other
+*.log
+*.env
+
+
+# Bin directory
+bin/
